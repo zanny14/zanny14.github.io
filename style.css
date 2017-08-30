@@ -2,12 +2,12 @@
         cursor: crosshair;}
 
 h1{
-  font-family:century gothic;
-   font-size:5em;}
+  font-family: "century gothic";
+   font-size: 5em;}
 
-body {margin:0;
-padding:0;
+body {margin: 0;
+padding: 0;
   background:url("https://media.giphy.com/media/l0ExhcMymdL6TrZ84/giphy.gif") no-repeat:
          background-size: cover;
-         background-position:center;
+         background-position: center;
 }
