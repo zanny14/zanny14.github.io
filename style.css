@@ -5,4 +5,9 @@ h1{
   font-family:century gothic;
    fontsize:5em;}
 
-
+body {margin 0}
+padding:0;
+  background:url(https://media.giphy.com/media/l0ExhcMymdL6TrZ84/giphy.gif) no-repeat:
+         background-size: cover;
+         background-position:center;
+}
