@@ -1,5 +1,8 @@
 *, body{
- -tab-cursor:crosshair;}
- h1{
- -tab-font-family:century gothic
+        cursor: crosshair;}
+
+h1{
+  font-family:century gothic;
    fontsize:5em;}
+
+
