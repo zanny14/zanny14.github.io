@@ -24,4 +24,20 @@ padding: 0;
         opacity: .5;
         transition: 3s;
 }
-        
+ #namebtn:hover {
+         
+         border: 5px solid #fff;
+         transition: 3s;
+}
+ #namebtn:focus {
+         outline:0px;
+}
+#msgCenter
+        width:100%;
+        color:red;
+        font-family: arial;
+        font-size: .5em;
+        margin: 1em 0 0 0;
+        padding:0;
+}
+
