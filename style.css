@@ -40,4 +40,14 @@ padding: 0;
         margin: 1em 0 0 0;
         padding:0;
 }
-
+#namebtn{
+        background: purple;
+        color: #eee;
+        font-family: princess sofia;
+        font-size: .8em;
+        padding: 5px 25px;
+        margin: 1.5em auto 
+        border:0;
+        border: 5px solid purple;
+        transition: 3s;
+}
